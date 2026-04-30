@@ -1,2 +1,2 @@
 def get_message():
-    return "CSV Analyzer Toolkit started"
+    return "CSV Analyzer Toolkit running (feature branch)"
